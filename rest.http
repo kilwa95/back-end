@@ -1,0 +1,4 @@
+GET http://localhost:4000/cities
+###
+GET http://localhost:4000/weather/75101
+
